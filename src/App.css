@@ -1,0 +1,40 @@
+.mt-5.d-flex.justify-content-center.heading {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+figure.d-flex.justify-content-center  {
+  border: 2px solid rgb(195, 192, 192);
+  height: 11rem;
+}
+
+.btn{
+  height: 50px;
+  width: 50px;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.mt-4.userinfo {
+  font-size: 22px;
+  font-weight: 500;
+  padding: 10px;
+  color: rgb(40, 2, 52);
+}
+
+img.image {
+  filter: brightness(120%);
+  filter: contrast(120%);
+  filter: drop-shadow(10px 10px 10px rgb(179, 180, 179));
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
